@@ -1,0 +1,5 @@
+{
+  "content_types": {
+    "/info/refs": "application/x-git-upload-pack-advertisement"
+  }
+}

@@ -1,0 +1,2 @@
+001e# service=git-upload-pack
+00000074ERR You are vulnerable: your Git client accepted a forged TLS certificate signed by the compromised eMudhra CA!

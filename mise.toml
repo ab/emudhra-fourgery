@@ -1,0 +1,10 @@
+[tools]
+go = "1.27.3"
+
+[tasks.build]
+description = "Build the fourgery binary"
+run = "go build -o fourgery ./cmd/fourgery"
+
+[tasks.test]
+description = "Run tests with the race detector"
+run = "go test -race ./..."
